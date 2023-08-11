@@ -57,15 +57,11 @@ img {
     width: 25%;
 }
 
-a:link {
+a:link, a:visited {
     color: rgb(136, 255, 136);
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
-}
-
-a:visited {
-    color: rgb(136, 255, 136);
 }
