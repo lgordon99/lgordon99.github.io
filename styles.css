@@ -50,11 +50,11 @@ div {
 }
 
 img {
-    width: 3vw;
+    width: 3vh;
 }
 
 .profile{
-    width: 30vw;
+    width: 40vh;
 }
 
 a:link, a:visited {
