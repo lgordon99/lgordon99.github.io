@@ -58,3 +58,7 @@ a:link {
     color: rgb(136, 255, 136);
     text-decoration: none;
 }
+
+a:hover {
+    text-decoration: underline;
+}
